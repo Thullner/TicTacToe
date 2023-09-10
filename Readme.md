@@ -30,7 +30,7 @@ This project is a simple console-based Tic-Tac-Toe game implemented in C#. The g
 
     ```
     dotnet build
-    dotnet run
+    dotnet run --project TicTacToe
     ```
 
 ## Usage
