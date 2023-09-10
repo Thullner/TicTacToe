@@ -23,7 +23,7 @@ This project is a simple console-based Tic-Tac-Toe game implemented in C#. The g
 2. Navigate to the project directory:
 
     ```
-    cd tic-tac-toe-console
+    cd TicTacToe
     ```
 
 3. Build and run the program:
