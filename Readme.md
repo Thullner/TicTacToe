@@ -20,7 +20,7 @@ This project is a simple console-based Tic-Tac-Toe game implemented in C#. The g
     git clone https://github.com/Thullner/TicTacToe.git
     ```
 
-2. Navigate to the project directory:
+2. Navigate to the solution directory:
 
     ```
     cd TicTacToe
@@ -43,7 +43,7 @@ This project is a simple console-based Tic-Tac-Toe game implemented in C#. The g
 
 ## Running Tests
 
-This project uses xUnit for testing. To run tests, navigate to the project directory and execute:
+This project uses xUnit for testing. To run tests, navigate to the solution directory and execute:
 
 ```
 dotnet test
